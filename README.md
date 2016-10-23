@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello-World
 -----------
 
@@ -11,12 +10,3 @@ Hello-World
   firs_file.txt
   second_file.txt
   thrid_file.txt
-
-=======
-# Hello-World
-My first repostory
----------------------------------
-Внесение изменений в данный файл
-перед слияние веток
----------------------------------
->>>>>>> master
