@@ -1,2 +1,7 @@
-# Hello-World
-My first repostory
+Hello-World
+-----------
+
+Мой перый репозитарий
+
+Здесь я буду тренироваться
+
