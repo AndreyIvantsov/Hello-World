@@ -8,8 +8,11 @@
 
 using namespace std;
 
-int main(int argc, char* arcv)
+int main(int argc, char** arcv)
 {
-	cout << "Hello World!" << endl;
+	cout << "**************************" << endl;
+	cout << "*      Hello World!      *" << endl;
+	cout << "* Это первый файл на С++ *" << endl;
+	cout << "**************************" << endl;
 	return 0;
 }
